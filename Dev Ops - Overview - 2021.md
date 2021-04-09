@@ -1,10 +1,10 @@
-﻿
+
 
 DEV OPS ‐ OVERVIEW
 
 W o r k s h o p 2 0 2 1
 
-
+---
 
 
 
@@ -35,7 +35,7 @@ D e v O p s E n g i n e e r
 2
 
 
-
+---
 
 
 WHAT IS DEV OPS
@@ -54,7 +54,8 @@ REPEATABLE WAY.
 
 DEV (DEVELOPMENT) + OPS (OPERATIONS)
 
-
+3
+---
 
 
 
@@ -87,16 +88,14 @@ transparency.
 4
 
 
-
+---
 
 
 DEVOPS ‐ TECHNOLOGY
 
-W h y t e c h n o l o g y s h o u l d a l r e a d y b e h e r e
+Why technology should already be here
 
-• Technology becomes partnered with product as opposed to servant
-
-to
+• Technology becomes partnered with product as opposed to servant to
 
 • Faster throughput for tech products and features
 
@@ -109,7 +108,7 @@ to
 5
 
 
-
+---
 
 
 DEVOPS IMPACT
@@ -117,15 +116,15 @@ DEVOPS IMPACT
 6
 
 
-
+---
 
 
 DEVOPS LIFECYCLE
-
+![]()
 7
 
 
-
+---
 
 
 DEV OPS VS AGILE
@@ -134,16 +133,12 @@ W h a t i s A g i l e ?
 
 W h a t i s D e v O p s
 
-DevOp
-
-s
-
-Agile
+DevOps  --> <--  Agile
 
 8
 
 
-
+---
 
 
 PRINCIPLES OF DEV OPS
@@ -165,7 +160,7 @@ Unite Teams — and Expertise
 9
 
 
-
+---
 
 
 RESPONSIBILITIES OF A DEV
@@ -188,18 +183,22 @@ Stop putting out fires and install fire suppression systems
 
 10
 
-Reference: Twitter/kamranamedse
-
-
+---
 
 
 
 DEVOPS TOOLS
+img src="https://princepatni.com/wp-content/uploads/2020/12/princepatni.com-Devops.png"
+alt="DevOps Tools Diagram"
+style="float: left; margin-right: 10px;" />
+
+
+Reference: Twitter/kamranamedse
 
 11
 
 
-
+---
 
 
 CONCLUSION
@@ -210,8 +209,8 @@ PROCESS, AND IT WILL SUCCEED OR FAIL BASED ON HOW
 
 INVESTED YOUR COMPANY IS IN THAT CULTURE.
 
-
-
+12
+---
 
 
 THANK YOU
@@ -222,3 +221,4 @@ S P E A K E R
 
 S P E A K E R @ e f f e c t u a l . c o m
 
+13
