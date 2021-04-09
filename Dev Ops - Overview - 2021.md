@@ -8,7 +8,7 @@ W o r k s h o p 2 0 2 1
 
 
 
-CONTENTS
+<h2> CONTENTS </h2>
 
 • W h a t i s D e v O p s ?
 
@@ -38,7 +38,7 @@ D e v O p s E n g i n e e r
 ---
 
 
-WHAT IS DEV OPS
+<h2> WHAT IS DEV OPS </h2>
 
 DEVOPS IS A CULTURE WHICH
 
@@ -59,7 +59,7 @@ DEV (DEVELOPMENT) + OPS (OPERATIONS)
 
 
 
-DEVOPS ‐ BUSINESS
+<h2> DEVOPS ‐ BUSINESS </h2>
 
 W h y t h e b u s i n e s s s h o u l d c a r e
 
@@ -91,7 +91,7 @@ transparency.
 ---
 
 
-DEVOPS ‐ TECHNOLOGY
+<h2> DEVOPS ‐ TECHNOLOGY </h2>
 
 Why technology should already be here
 
@@ -111,7 +111,7 @@ Why technology should already be here
 ---
 
 
-DEVOPS IMPACT
+<h2> DEVOPS IMPACT </h2>
 
 6
 
@@ -119,7 +119,7 @@ DEVOPS IMPACT
 ---
 
 
-DEVOPS LIFECYCLE
+<h2> DEVOPS LIFECYCLE </h2>
 ![]()
 7
 
@@ -127,11 +127,11 @@ DEVOPS LIFECYCLE
 ---
 
 
-DEV OPS VS AGILE
+<h2> DEV OPS VS AGILE </h2>
 
-W h a t i s A g i l e ?
+<h3> W h a t i s A g i l e ?
 
-W h a t i s D e v O p s
+W h a t i s D e v O p s </h3>
 
 DevOps  --> <--  Agile
 
@@ -141,7 +141,7 @@ DevOps  --> <--  Agile
 ---
 
 
-PRINCIPLES OF DEV OPS
+<h2> PRINCIPLES OF DEV OPS </h2>
 
 Culture: Foster a Collaborative Environment
 
@@ -163,9 +163,7 @@ Unite Teams — and Expertise
 ---
 
 
-RESPONSIBILITIES OF A DEV
-
-OPS ENGINEER
+<h2> RESPONSIBILITIES OF A DEV OPS ENGINEER </h2>
 
 R u n e v e r y t h i n g … .
 
@@ -187,7 +185,7 @@ Stop putting out fires and install fire suppression systems
 
 
 
-DEVOPS TOOLS
+ <h2> DEVOPS TOOLS </h2>
 img src="https://princepatni.com/wp-content/uploads/2020/12/princepatni.com-Devops.png"
 alt="DevOps Tools Diagram"
 style="float: left; margin-right: 10px;" />
@@ -201,7 +199,7 @@ Reference: Twitter/kamranamedse
 ---
 
 
-CONCLUSION
+<h2> CONCLUSION </h2>
 
 DEVOPS IS A CULTURE NOT ANY SINGLE TOOL OR
 
@@ -213,7 +211,7 @@ INVESTED YOUR COMPANY IS IN THAT CULTURE.
 ---
 
 
-THANK YOU
+<h2> THANK YOU </h2>
 
 S P E A K E R
 
